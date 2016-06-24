@@ -1,22 +1,23 @@
 {
-  "name": "fluent-address-generator",
-  "authors": [
-    "kobyhastings <koby_hastings1@mymail.eku.edu>"
-  ],
-  "description": "",
-  "main": "",
-  "moduleType": [],
-  "license": "MIT",
-  "homepage": "",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "mithril": "^0.2.5",
-    "love-will-layout": "*"
-  }
+    "name": "baby-mithril",
+    "authors": [
+        "kobyhastings <koby_hastings1@mymail.eku.edu>"
+    ],
+    "description": "",
+    "main": "",
+    "moduleType": [],
+    "license": "MIT",
+    "homepage": "https://github.com/lovewillinc/baby-mithril",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "Materialize": "materialize#^0.97.6",
+        "mithril": "^0.2.5",
+        "love-will-layout": "*"
+    }
 }
